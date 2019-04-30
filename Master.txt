@@ -4,5 +4,5 @@
 <End of Version>
 
 <Version: 2.00>
-/data/Actors.json
+/data/Actors.json https://raw.githubusercontent.com/Umupafa/update/master/Actors.json
 <End of Version>
