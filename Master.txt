@@ -6,3 +6,8 @@
 <Version: 2.00>
 /data/Actors.json https://raw.githubusercontent.com/Umupafa/update/master/Actors.json
 <End of Version>
+
+<Version: 3.00>
+/data/Map027.json
+/data/Map001.json
+<End of Version>
