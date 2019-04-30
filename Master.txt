@@ -15,3 +15,7 @@
 <Version: 4.00>
 /data/Mapsinfos.json https://raw.githubusercontent.com/Umupafa/update/master/MapInfos.json
 <End of Version>
+
+<Version: 5.00>
+/data/System.json https://raw.githubusercontent.com/Umupafa/update/master/System.json
+<End of Version>
