@@ -11,3 +11,7 @@
 /data/Map027.json https://raw.githubusercontent.com/Umupafa/update/master/Map027.json
 /data/Map001.json https://raw.githubusercontent.com/Umupafa/update/master/Map001.json
 <End of Version>
+
+<Version: 4.00>
+/data/Mapsinfos.json https://raw.githubusercontent.com/Umupafa/update/master/MapInfos.json
+<End of Version>
