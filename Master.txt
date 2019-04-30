@@ -3,6 +3,6 @@
 /data/Map018.json https://raw.githubusercontent.com/Umupafa/update/master/Map018.json
 <End of Version>
 
-<Version: 2.01>
+<Version: 2.00>
 /data/Actors.json https://raw.githubusercontent.com/Umupafa/update/master/Actors.json
 <End of Version>
